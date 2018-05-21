@@ -1,0 +1,9 @@
+c:\users\xdhru\documents\visual studio 2012\Projects\StockProfitCalculator\StockProfitCalculator\bin\Debug\StockProfitCalculator.exe.config
+c:\users\xdhru\documents\visual studio 2012\Projects\StockProfitCalculator\StockProfitCalculator\bin\Debug\StockProfitCalculator.exe
+c:\users\xdhru\documents\visual studio 2012\Projects\StockProfitCalculator\StockProfitCalculator\bin\Debug\StockProfitCalculator.pdb
+c:\users\xdhru\documents\visual studio 2012\Projects\StockProfitCalculator\StockProfitCalculator\obj\Debug\StockProfitCalculator.csprojResolveAssemblyReference.cache
+c:\users\xdhru\documents\visual studio 2012\Projects\StockProfitCalculator\StockProfitCalculator\obj\Debug\StockProfitCalculator.Form1.resources
+c:\users\xdhru\documents\visual studio 2012\Projects\StockProfitCalculator\StockProfitCalculator\obj\Debug\StockProfitCalculator.Properties.Resources.resources
+c:\users\xdhru\documents\visual studio 2012\Projects\StockProfitCalculator\StockProfitCalculator\obj\Debug\StockProfitCalculator.csproj.GenerateResource.Cache
+c:\users\xdhru\documents\visual studio 2012\Projects\StockProfitCalculator\StockProfitCalculator\obj\Debug\StockProfitCalculator.exe
+c:\users\xdhru\documents\visual studio 2012\Projects\StockProfitCalculator\StockProfitCalculator\obj\Debug\StockProfitCalculator.pdb
